@@ -1,0 +1,16 @@
+{
+  "accounts": [
+    "acc1$@domain",
+	"acc2$@domain",
+	"acc3$@domain"
+  ],
+  "description": "Random text",
+  "displayName": "Ivan Terentiev",
+  "email": "Ivan_Terentiev@testmail.ru",
+  "firstName": "Ivan",
+  "lastName": "Terentiev",
+  "work":{
+	"office": "221B Baker Street, London",
+	"telephone": "+78009002010"
+  }
+}
